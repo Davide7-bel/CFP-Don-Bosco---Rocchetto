@@ -2,14 +2,35 @@
 
 p{
     font-family: 'Montserrat', sans-serif;
+    
 }
 
 #fascia-superiore{
-    height: 36xp;
+    background-color: blue;
+    height: 36px;
     padding: 5px;
     padding-right: 100px;
 }
 
 #fascia-superiore a{
+    text-decoration: none;
     color:white;
+}
+
+#fascia-superiore a:hover{
+    color: blue;
+}
+
+#fascia-navigazione{
+    height: 91px;
+    padding: 45.5px;
+}
+
+#fascia-navigazione a{
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+#fascia-navigazione a:hover{
+    color:blue
 }
