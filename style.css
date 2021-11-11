@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#fascia-superiore{
+    height: 36xp;
+    padding: 5px;
+    padding-right: 100px;
+}
+
+#fascia-superiore a{
+    color:white;
+}
