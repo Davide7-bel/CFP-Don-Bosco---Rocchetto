@@ -34,3 +34,14 @@ p{
 #fascia-navigazione a:hover{
     color:blue
 }
+
+#fascia-sotto{
+    background-color: blue;
+    height: 36px;
+    padding: 577px;
+    padding-right: 100px;
+}
+
+#fascia-sotto p{
+    
+}
